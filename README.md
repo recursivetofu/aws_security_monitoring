@@ -8,7 +8,7 @@
 
 ---
 
-<img width="1492" height="632" alt="Screenshot 2026-03-05 at 4 52 18 PM" src="https://github.com/user-attachments/assets/806fbc9c-301b-44db-8609-b022b4949545" />
+![Image](http://learn.nextwork.org/encouraged_purple_mysterious_cardamom/uploads/aws-security-monitoring_reghtjy)
 
 
 ---
